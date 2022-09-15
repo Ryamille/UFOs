@@ -6,9 +6,14 @@
 ## Results
 When you scroll down a little you will see on the left a fully functional filter search bar. In it you can see datetime, city, state, country, and shape.
 Putting a correct input into one of the criteria will allow the data to filter alomst immediatley.
-![](resources/filter.png)
+
+![](resources/filter_bar.png)
+
+![](resources/one.png)
+
 The filter bar also allows multiple filters to be used at once.
 ![](resources/multiple.png)
+
 ## Summary
 The biggest drawback to this design is when you have to filter multiple searcher options in search it does not have an autofill feature to easily combine two or more filters together. Say if a state was typed in when the city box is clicked on it should give all the option the data has available.
 
